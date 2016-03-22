@@ -1,6 +1,6 @@
 {
   "name": "data-mapping-api",
-  "version": "0.2.2",
+  "version": "0.0.1",
   "description": "Starter project for an ES6 RESTful Express API",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,15 @@
     "data",
     "mapping",
     "polls"
-  ]
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataquito/data-mapping-api.git"
+  },
+  "author": "Omar Eduardo Torres Chavez <torres.omar.eduardo@gmail.com> (http://dataquito.org)",
+  "bugs": {
+    "url": "https://github.com/dataquito/data-mapping-api/issues"
+  },
+  "homepage": "https://github.com/dataquito/data-mapping-api#readme"
 }
